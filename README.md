@@ -1,5 +1,5 @@
-PUCRS - Centro de Inovação - Exercício de Programação - 2021/1
-A fábrica de bebidas energéticas Energéticos Accelerator vendeu uma carga de energéticos para uma grande rede de supermercados. O caminhão precisa de uma nota fiscal de saída da fábrica para poder fazer a entrega de cada carga e para isso é necessário ter os cálculos de tributação. Para tanto, a fábrica solicitou o desenvolvimento de uma aplicação que faça os cálculos de impostos sobre cada carga.
+PUCRS - Centro de Inovação - Exercício de Programação - 2021/1: 
+   A fábrica de bebidas energéticas Energéticos Accelerator vendeu uma carga de energéticos para uma grande rede de supermercados. O caminhão precisa de uma nota fiscal de saída da fábrica para poder fazer a entrega de cada carga e para isso é necessário ter os cálculos de tributação. Para tanto, a fábrica solicitou o desenvolvimento de uma aplicação que faça os cálculos de impostos sobre cada carga.
 Você é o responsável por desenvolver esta aplicação e sua tarefa é desenvolver o algoritmo para calcular os impostos referentes a cada venda.
 Gerando um relatório de impostos  a partir dos dados inseridos no sistema, nome do cliente e quantidade comprada.
 A fábrica também necessita saber o valor total (valor unitário x quantidade + impostos) sobre cada carga. O valor unitário de cada energético é fixo e cada um custa R$ 4,50.
